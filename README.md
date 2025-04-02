@@ -1,2 +1,2 @@
 # my blog
-www.linxyj.top
+www.linyj.top
